@@ -76,7 +76,7 @@ export class AboutView extends Component<Props, State> {
           }}>
           <Text
             style={{
-              color: Colors.needText,
+              color: Colors.white,
               fontWeight: '500',
               backgroundColor: 'rgba(0,0,0,0)',
               alignSelf: 'center',
@@ -101,7 +101,7 @@ export class AboutView extends Component<Props, State> {
             </TouchableOpacity>
             <TouchableOpacity
               activeOpacity={0.6}
-              onPress={() => Linking.openURL('https://ChaiOne.com/eula')}
+              onPress={() => Linking.openURL('https://chaione.com/eula')}
               style={StyleSheet.flatten([
                 styles.actionButton,
                 styles.actionButtonFilter,
