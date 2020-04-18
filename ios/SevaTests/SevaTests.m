@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface DisasterConnectTests : XCTestCase
+@interface SevaTests : XCTestCase
 
 @end
 
-@implementation DisasterConnectTests
+@implementation SevaTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
