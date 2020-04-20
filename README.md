@@ -1,4 +1,4 @@
-# Disaster Connect
+# Seva
 
 An app to help coordinate relief efforts in Houston after Hurricane Harvey, built with React Native.
 

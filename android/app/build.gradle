@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.chaione.disasterconnect"
+        applicationId "com.chaione.seva"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 3
